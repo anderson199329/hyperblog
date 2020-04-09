@@ -4,3 +4,5 @@ Anderson tiene 26 años y nació en Colombia,
 viviendo en Rionegro-Antioquia
 
 hoy hablaremos de su vida y obra maestra
+
+Anderson Movalto Developer es una persona que contribuye a este proyecto open source y nació en internet
